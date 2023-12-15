@@ -41,4 +41,5 @@ function reset(){
     sum.innerText = `The total sum is: ${0}`;
     arr = [];
     tot = 0;
+    count = 0;
 }
